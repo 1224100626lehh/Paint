@@ -59,9 +59,6 @@
     <UnityVersion>2021.3.45f2</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\Sears\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.2.1\Analyzers\Microsoft.Unity.Analyzers.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.5.4\Starter Assets\Editor\Scripts\StarterAssetsSampleProjectValidation.cs" />
   </ItemGroup>
   <ItemGroup>
